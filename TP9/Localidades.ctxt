@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p_disponibles
+comment0.target=Localidades(int)
+comment1.params=p_disponibles
+comment1.target=void\ setDisponibles(int)
+comment2.params=
+comment2.target=int\ getDisponibles()
+comment3.params=
+comment3.target=boolean\ hayDisponible()
+comment4.params=
+comment4.target=void\ actualizarDisponible()
+numComments=5

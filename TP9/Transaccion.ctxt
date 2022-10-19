@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=p_numero\ p_cuenta\ p_importe
+comment0.target=Transaccion(int,\ CuentaBancaria,\ double)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=p_numero
+comment2.target=void\ setNumero(int)
+comment3.params=
+comment3.target=int\ getNumero()
+comment4.params=p_cuenta
+comment4.target=void\ setCuenta(CuentaBancaria)
+comment5.params=
+comment5.target=CuentaBancaria\ getCuenta()
+comment6.params=p_importe
+comment6.target=void\ setImporte(double)
+comment7.params=
+comment7.target=double\ getImporte()
+numComments=8

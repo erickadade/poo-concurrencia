@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CajeraH
+comment1.params=p_nombre\ p_cliente\ p_timeStamp
+comment1.target=CajeraH(java.lang.String,\ ClienteH,\ long)
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p_cliente
+comment4.target=void\ setClienteH(ClienteH)
+comment5.params=
+comment5.target=ClienteH\ getCliente()
+comment6.params=p_timeStamp
+comment6.target=void\ setTimeStamp(long)
+comment7.params=
+comment7.target=long\ getTimeStamp()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=segundos
+comment9.target=void\ esperarXsegundos(int)
+numComments=10

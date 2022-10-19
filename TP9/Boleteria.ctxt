@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p_localidades
+comment0.target=Boleteria(Localidades)
+comment1.params=p_localidades
+comment1.target=void\ setLocalidades(Localidades)
+comment2.params=
+comment2.target=Localidades\ getLocalidades()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ vender()
+numComments=5

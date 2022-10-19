@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=p_nroCuentaBancaria\ p_titulares\ p_saldo
+comment0.target=CuentaBancaria(int,\ java.util.ArrayList,\ double)
+comment1.params=p_nroCuentaBancaria\ p_titular\ p_saldo
+comment1.target=CuentaBancaria(int,\ Persona,\ double)
+comment10.params=p_transaccion
+comment10.target=void\ hacerRetiro(Transaccion)
+comment11.params=
+comment11.target=void\ mostrar()
+comment2.params=p_nroCuentaBancaria
+comment2.target=void\ setNroCuentaBancaria(int)
+comment3.params=p_saldo
+comment3.target=void\ setSaldo(double)
+comment4.params=p_titular
+comment4.target=void\ setTitulares(java.util.ArrayList)
+comment5.params=
+comment5.target=int\ getNroCuentaBancaria()
+comment6.params=
+comment6.target=double\ getSaldo()
+comment7.params=
+comment7.target=java.util.ArrayList\ getTitulares()
+comment8.params=p_importe
+comment8.target=double\ depositar(double)
+comment9.params=p_importe
+comment9.target=double\ extraer(double)
+numComments=12

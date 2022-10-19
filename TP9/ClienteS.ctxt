@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClienteS
+comment1.params=p_nombre\ p_carroCompra
+comment1.target=ClienteS(java.lang.String,\ int[])
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=int[]\ getCarroCompra()
+comment4.params=p_nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=p_carroCompra
+comment5.target=void\ setCarroCompra(int[])
+numComments=6

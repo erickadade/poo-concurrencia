@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p_base
+comment0.target=ConsultarInscriptos(SIU)
+comment1.params=p_base
+comment1.target=void\ setBase(SIU)
+comment2.params=
+comment2.target=SIU\ getBase()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

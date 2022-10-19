@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pName\ pPriority\ pBase\ pExamen
+comment0.target=Inscripcion(java.lang.String,\ int,\ SIU,\ InscripcionExamen)
+comment1.params=pBase
+comment1.target=void\ setBase(SIU)
+comment2.params=
+comment2.target=SIU\ getBase()
+comment3.params=pExamen
+comment3.target=void\ setInscripcionExamen(InscripcionExamen)
+comment4.params=
+comment4.target=InscripcionExamen\ getInscripcionExamen()
+comment5.params=
+comment5.target=void\ run()
+numComments=6

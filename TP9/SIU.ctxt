@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SIU()
+comment1.params=p_inscripciones
+comment1.target=void\ setInscripciones(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ getInscripciones()
+comment3.params=p_examen
+comment3.target=void\ inscribir(InscripcionExamen)
+comment4.params=
+comment4.target=int\ inscriptos()
+comment5.params=
+comment5.target=java.lang.String\ mostrarInscriptos()
+numComments=6
